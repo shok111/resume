@@ -1,11 +1,11 @@
-body{
+body {
     background-color: #e5e5e5;
-    padding: 40px ;
-    font-family: 'Montserrat', sans-serif;
+    padding: 40px;
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
 }
 
-.wrapper{
+.wrapper {
     display: flex;
     flex-direction: row-reverse;
     background: #fff;
@@ -15,13 +15,13 @@ body{
 
 /* Main content */
 
-.main-content{
+.main-content {
     padding-left: 79px;
     padding-top: 102px;
 }
 
 /* about me */
-.my-proffesion{
+.my-proffesion {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -30,7 +30,7 @@ body{
     margin-bottom: 19px;
 }
 
-.my-name{
+.my-name {
     font-style: normal;
     font-weight: 700;
     font-size: 45px;
@@ -40,13 +40,11 @@ body{
     margin-bottom: 20px;
 }
 
-
-
-.about-me-container{
+.about-me-container {
     margin-bottom: 101px;
 }
 
-.main-content-title{
+.main-content-title {
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
@@ -55,21 +53,21 @@ body{
     margin: 0;
 }
 
-.main-content-title1{
+.main-content-title1 {
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
     line-height: 27px;
     color: #000000;
-    margin: 0;    
+    margin: 0;
     margin-bottom: 14px;
 }
 
-.main-div2{
+.main-div2 {
     margin-bottom: 16px;
 }
 
-.project-item-ol{
+.project-item-ol {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -78,11 +76,11 @@ body{
     margin: 0;
     padding: 0;
     margin-left: 16px;
-    margin-top: 8px;    
+    margin-top: 8px;
     margin-bottom: -51px;
 }
 
-.project-item{
+.project-item {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -91,18 +89,18 @@ body{
     text-decoration: none;
 }
 
-.project-item-link{
+.project-item-link {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
     text-decoration-line: none;
-    color: #005FFF;
+    color: #005fff;
     font-weight: 400;
     margin-left: 12px;
 }
 
-.project-item-desk{
+.project-item-desk {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -112,12 +110,12 @@ body{
 
 /* work-experience */
 
-.work-experience-container{
+.work-experience-container {
     margin-bottom: 16px;
     margin: 0;
 }
 
-.work-experience-position{
+.work-experience-position {
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -126,11 +124,11 @@ body{
     margin: 0;
 }
 
-.work-experience-place{
+.work-experience-place {
     margin-bottom: 12px;
 }
 
-.work-experience-h42{
+.work-experience-h42 {
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
@@ -139,55 +137,54 @@ body{
     margin-top: 43px;
 }
 
-
-.work-experience-h41{ 
+.work-experience-h41 {
     margin-top: 47px;
 }
 
-.work-experience-company{
+.work-experience-company {
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
-    color: #6D9BF5;
+    color: #6d9bf5;
 }
 
-.work-period{
+.work-period {
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 15px;
-    color: #A8A8A8;
+    color: #a8a8a8;
 }
 
-.work-period-1{
+.work-period-1 {
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 15px;
-    color: #A8A8A8;
+    color: #a8a8a8;
     margin-top: -10px;
 }
 
-.work-period-2{
+.work-period-2 {
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
-    color: #6D9BF5;
+    color: #6d9bf5;
     margin-top: -8px;
 }
 
-.work-period-3{
+.work-period-3 {
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 15px;
-    color: #A8A8A8;
+    color: #a8a8a8;
     margin-top: -22px;
 }
 
-.work-experience-h6{
+.work-experience-h6 {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -196,7 +193,7 @@ body{
     margin-top: -6px;
 }
 
-.work-duties{
+.work-duties {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -204,12 +201,12 @@ body{
     color: #595959;
 }
 
-.work-duties-list{
+.work-duties-list {
     padding: 0 0 0 16px;
     margin-top: -6px;
 }
 
-.work-experience-h4{
+.work-experience-h4 {
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -218,27 +215,26 @@ body{
     margin-top: 6px;
 }
 
-
 /* sidebar */
 
-.sidebar{
+.sidebar {
     width: 370px;
     background: #e0ebfe;
 }
 
-.sidebar img{
+.sidebar img {
     padding: 10px;
 }
-.my-photo{
+.my-photo {
     margin-top: 40px;
 }
 
 .contacts-container,
-.tech-skills-conteiner{
+.tech-skills-conteiner {
     margin: 48px 0 0 40px;
 }
 
-.sidebar-title{
+.sidebar-title {
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
@@ -247,7 +243,7 @@ body{
 }
 
 /* contact */
-.contact-type{
+.contact-type {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -256,11 +252,11 @@ body{
     margin-right: 4px;
 }
 
-.contacs-item{
+.contacs-item {
     margin: 0;
 }
 
-.contacts-number{
+.contacts-number {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -268,7 +264,7 @@ body{
     color: #161d2a;
 }
 
-.contacts-email{
+.contacts-email {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -277,16 +273,16 @@ body{
 }
 
 /* skills */
-.skills-list{
+.skills-list {
     margin: 0;
     padding: 0 0 0 12px;
 }
 
-.skills-list-item{
+.skills-list-item {
     color: #6d9bf5;
 }
 
-.skills-list-text{
+.skills-list-text {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
